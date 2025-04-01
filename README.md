@@ -1,4 +1,4 @@
-# Olist-e_commerce
+# Olist E_commerce Store Analysis
 The "Olist Store Analysis" project employs statistical analysis, data visualization, and machine learning techniques to derive meaningful insights. The findings will be presented through comprehensive reports, visualizations, and presentations, providing Olist with actionable recommendations to drive growth, improve operational performance, and deliver an exceptional online shopping experience.
 
 The primary objectives of the "Olist Store Analysis" project are to analyze sales performance, customer behavior, product performance, operational efficiency, and customer satisfaction. By leveraging advanced analytics techniques, the project seeks to uncover trends, patterns, and factors influencing sales across different product categories, regions, and time periods. Furthermore, by examining customer data, the project aims to gain insights into purchasing patterns, customer segmentation, and customer lifetime value, empowering Olist to personalize marketing efforts and improve customer retention.
